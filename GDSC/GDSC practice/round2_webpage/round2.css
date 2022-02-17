@@ -60,6 +60,16 @@ footer p a:hover{
     color: black;
 }
 
+footer button a{
+    
+    text-decoration: none;
+    color: #000000;
+    font-weight: 300;
+    border-radius: 10px;
+   
+    transition: 0.5s ease-in-out;
+}
+
 .logo{
 
     width: 200px;
@@ -83,6 +93,8 @@ ul li.active a{
     background-color: #49AF73;
     color: black;
 }
+
+
 
 .aboutUs{
     
@@ -237,7 +249,7 @@ ul li.active a{
 }
 
 .contact{
-    height: 40vh;
+    height: 50vh;
     background-color: rgb(32, 30, 30);
     color: #fff;
     padding: 10px;
